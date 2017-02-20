@@ -10,6 +10,12 @@
   <version>0.0.1-SNAPSHOT</version>
   <packaging>war</packaging>
   <dependencies>
+  			<!-- 单元测试 -->
+			<dependency>
+				<groupId>junit</groupId>
+				<artifactId>junit</artifactId>
+				<scope>test</scope>
+			</dependency>
 	  <dependency>
 		   <groupId>com.taotao</groupId>
 	    <artifactId>taotao-common</artifactId>

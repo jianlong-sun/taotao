@@ -72,7 +72,7 @@ public class PictureServiceImpl implements PictureService {
 			return resultMap ;
 		}
 		
-		//反户籍
+		
 		
 	}
 
